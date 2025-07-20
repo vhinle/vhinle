@@ -12,7 +12,7 @@
 <ul>
   <li>🌱 I’m always learning new technologies and improving my skills.</li>
   <li>🚀 I enjoy building creative solutions, automating tasks, and collaborating with the community.</li>
-  <li>🛠️ Currently working on personal and open source projects.</li>
+  <li>🛠️ Currently working on personal and side-hustle projects.</li>
   <li>✨ Fun fact: I love coffee, code, and good music.</li>
 </ul>
 
@@ -47,8 +47,8 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vhinle@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/elvin-manuel-luces/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
